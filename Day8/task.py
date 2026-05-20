@@ -1,0 +1,8 @@
+name=input("enter your name")
+id=int(input("id:"))
+mobile_no=int(input("mobile no.:"))
+email=input("email:")
+dob=input("DOB:")
+city=input("city:")
+add=input("address:")
+print("STUDENT PROFILE","\n","Name:",name,"\n", "ID:",id,"\n","Mobile_No.:", mobile_no,"\n" ,"Email:",email,"\n","DOB:",dob,"\n", "city:",city,"\n", "address:",add)
