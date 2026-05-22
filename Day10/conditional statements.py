@@ -67,7 +67,15 @@ a=int(input())
 b=int(input())
 c=[1,2,3,4,5,6,7,8,9,10]
 if a>b:
-    print(
+    print("true")
+elif a>b or b>a:
+    print("or")
+elif a is b:
+    print("is")
+elif a in c:
+    print("in")
+else:
+    print("invalid")
       
 
 
