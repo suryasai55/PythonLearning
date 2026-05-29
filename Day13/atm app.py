@@ -1,0 +1,27 @@
+while True:
+    card=input("Insert the card:")
+    p=1234
+    acc_bal=100000
+    if card=="c":
+        print("Welcome Pooja")
+    else:
+        print("Invalid user:")
+    password=int(input("Enter your Password:"))
+    if password==1234:
+        print('''Choose the following Options:
+                        1.Balance Enquiry
+                        2.Withdraw''')
+        
+    else:
+        print("Incorrect Password")
+        
+    a=int(input("option:"))
+    if a==2:
+        r=int(input("Enter amount:"))
+        acc_bal=acc_bal-r
+        print("Remaining Balance after Transaction is:",acc_bal)
+    elif a==1:
+        print(acc_bal)
+    else:
+        print("invalid option")
+            
