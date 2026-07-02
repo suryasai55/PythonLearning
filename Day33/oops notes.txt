@@ -1,0 +1,34 @@
+OOPS
+A class contains attributes or variables and methods or functions that can manipulate the data.
+A CLass is the blue print of an object
+An object is an initialization of a class
+Methods or functions define inside the body of the class
+Four Pillars of OOPS:
+__________________________________________________
+
+Polymorphism:
+polymorphism contains 4 Operations:
+operator overloading
+operator overriding
+method overloading
+method overriding
+
+Inheritence:
+In inheritance we have 5 types:
+Single inheritance
+Multiple Inheritence
+multi level Inheritence
+hierarical Inheritence
+Hybrid Inheritence
+
+Encapsulation:
+compiling multiple units into single unit is called encapsulation:
+
+Public Data
+Protected Data
+Private Data
+
+Abstraction:
+Abstract Class
+Abstract Method
+---
